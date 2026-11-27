@@ -1,5 +1,8 @@
 # recomp-image-core
 
+This dated repository is retained for existing pinned consumers. Current development and the complete media provider are at [mstan/recomp-image-core](https://github.com/mstan/recomp-image-core). Existing commits and license grants remain available here.
+
+
 Current licensing and the grant for existing owner contributions are documented in [LICENSE-SCOPE.md](LICENSE-SCOPE.md).
 
 Private reusable host-native, read-only disc-image library. No console runtime or game inputs are required to build it. Production consumers are intentionally unchanged pending combined integration experiments.
